@@ -1,0 +1,100 @@
+ abbey
+ airplane cabin
+ airport terminal
+ alley
+ amphitheater
+ amusement arcade
+ amusement park
+ anechoic chamber
+ apartment building outdoor
+ apse indoor
+ aquarium
+ aqueduct
+ arch
+ archive
+ arrival gate outdoor
+ art gallery
+ art school
+ art studio
+ assembly line
+ athletic field outdoor
+ atrium public
+ attic
+ auditorium
+ auto factory
+ badlands
+ badminton court indoor
+ baggage claim
+ bakery shop
+ balcony exterior
+ balcony interior
+ ball pit
+ ballroom
+ bamboo forest
+ banquet hall
+ bar
+ barn
+ barndoor
+ baseball field
+ basement
+ basilica
+ basketball court outdoor
+ bathroom
+ batters box
+ bayou
+ bazaar indoor
+ bazaar outdoor
+ beach
+ beauty salon
+ bedroom
+ berth
+ biology laboratory
+ bistro indoor
+ boardwalk
+ boat deck
+ boathouse
+ bookstore
+ booth indoor
+ botanical garden
+ bow window indoor
+ bow window outdoor
+ bowling alley
+ boxing ring
+ brewery indoor
+ bridge
+ building facade
+ bullring
+ burial chamber
+ bus interior
+ butchers shop
+ butte
+ cabin outdoor
+ cafeteria
+ campsite
+ campus
+ canal natural
+ canal urban
+ candy store
+ canyon
+ car interior backseat
+ car interior frontseat
+ carrousel
+ casino indoor
+ castle
+ catacomb
+ cathedral indoor
+ cathedral outdoor
+ cavern indoor
+ cemetery
+ chalet
+ cheese factory
+ chemistry lab
+ chicken coop indoor
+ chicken coop outdoor
+ childs room
+ church indoor
+ church outdoor
+ classroom
+ clean room
+ cliff
+ cloister indoor
