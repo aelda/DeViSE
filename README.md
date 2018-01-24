@@ -5,6 +5,7 @@ We implemented the DeViSE network (Frome et al., 2013) that can
 
 ## Model
 we use two pre-trained models in order to implement the DeViSE .
+
 **As for the Visual model** :
 * a pre-trained AlexNet
 * SUN3971, a dataset for scene recognition
